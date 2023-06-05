@@ -1,1 +1,1 @@
-This stores output
+This stores input as well as certain output
